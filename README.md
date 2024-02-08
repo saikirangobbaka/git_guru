@@ -1,1 +1,3 @@
-# git_guru
+hello this is git
+
+hi hello
